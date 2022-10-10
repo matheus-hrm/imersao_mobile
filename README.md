@@ -1,6 +1,6 @@
-# flutter_application_1
+# imersão_mobile
 
-A new Flutter project.
+Aplicação básica desenvolvida em conjunto durante 5 dias na UFG onde foram ensinadas estruturas básicas de flutter e da linguagem Dart
 
 ## Getting Started
 
